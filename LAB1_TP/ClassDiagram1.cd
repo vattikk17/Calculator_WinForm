@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LAB1_TP.Calculator">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="Btn1X" Hidden="true" />
+      <Field Name="BtnAdd" Hidden="true" />
+      <Field Name="BtnBackSpace" Hidden="true" />
+      <Field Name="BtnC" Hidden="true" />
+      <Field Name="BtnCE" Hidden="true" />
+      <Field Name="BtnClearHistory" Hidden="true" />
+      <Field Name="BtnCos" Hidden="true" />
+      <Field Name="BtnDesimal" Hidden="true" />
+      <Field Name="BtnDivision" Hidden="true" />
+      <Field Name="BtnEquals" Hidden="true" />
+      <Field Name="BtnExit" Hidden="true" />
+      <Field Name="BtnHistory" Hidden="true" />
+      <Field Name="BtnMultiply" Hidden="true" />
+      <Field Name="BtnNum0" Hidden="true" />
+      <Field Name="BtnNum1" Hidden="true" />
+      <Field Name="BtnNum2" Hidden="true" />
+      <Field Name="BtnNum3" Hidden="true" />
+      <Field Name="BtnNum4" Hidden="true" />
+      <Field Name="BtnNum5" Hidden="true" />
+      <Field Name="BtnNum6" Hidden="true" />
+      <Field Name="BtnNum7" Hidden="true" />
+      <Field Name="BtnNum8" Hidden="true" />
+      <Field Name="BtnNum9" Hidden="true" />
+      <Field Name="BtnPercent" Hidden="true" />
+      <Field Name="BtnPM" Hidden="true" />
+      <Field Name="BtnSquare" Hidden="true" />
+      <Field Name="BtnSubtraction" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="PnlHistory" Hidden="true" />
+      <Field Name="PnlTitle" Hidden="true" />
+      <Field Name="TextDisplay1" Hidden="true" />
+      <Field Name="TextDisplay2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>kCSCAACAACQChAIADAKhAgADAAA48A8ADADQBQABAAk=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB1_TP.Properties.Resources">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB1_TP.Properties.Settings">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
